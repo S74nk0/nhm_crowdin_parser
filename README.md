@@ -1,0 +1,1 @@
+Toy project to transform [NiceHashMiner](https://github.com/nicehash/NiceHashMiner) translations to "Crowdin format"? and back. 
